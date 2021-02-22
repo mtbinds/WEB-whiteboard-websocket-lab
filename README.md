@@ -8,7 +8,7 @@
 
 |Nom|Prénom|login|email|
 |--|--|--|--|
-| ??? | ??? | ??? | ???@???.?? |
+| Madjid | Taoualit | tm177375 | madjid.taoualit@etu.univ-lehavre.fr |
 
 ## Travail à réaliser
 
