@@ -47,7 +47,7 @@
       <updated>1614165093511</updated>
       <workItem from="1614165095720" duration="16000" />
       <workItem from="1614165117252" duration="2668000" />
-      <workItem from="1614247891874" duration="2286000" />
+      <workItem from="1614247891874" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
       <created>1614248592718</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614249534023</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updating (index.js) file -&gt; Adding function ajouteDessin() that adds new Drawing with new ID &amp; a name">
+      <created>1614250212103</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614250212103</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
