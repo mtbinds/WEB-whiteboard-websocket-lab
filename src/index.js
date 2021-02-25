@@ -127,6 +127,8 @@ function ajouteDessin(newId, name) {
 
 //document.getElementById("listedessins").addEventListener()
 document.getElementById("listedessins").addEventListener("input", onSelectMyOption, true);
+
+//Function onSelectMyOption()
 function onSelectMyOption(event) {
   canvas.style.display = 'None';
   canvas = document.getElementById('canvas' + document.getElementById("listedessins").selectedOptions[0].value);
