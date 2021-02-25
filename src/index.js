@@ -60,6 +60,7 @@ ws.onmessage = (event) => {
 
 //canvas.addEventListener
 canvas.addEventListener("mousemove", moveEvent, true);
+
 function moveEvent(event) {
   if(event.buttons === 1) {
     let color = mycolor;
