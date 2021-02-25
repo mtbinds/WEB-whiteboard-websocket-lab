@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="">
+    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (index.js) file -&gt; Adding drawing function (draw()) to draw lines">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +47,57 @@
       <updated>1614165093511</updated>
       <workItem from="1614165095720" duration="16000" />
       <workItem from="1614165117252" duration="2668000" />
-      <workItem from="1614247891874" duration="587000" />
+      <workItem from="1614247891874" duration="1042000" />
     </task>
+    <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
+      <created>1614248592718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614248592718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
+      <created>1614248626167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614248626167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating (index.js) file -&gt; Adding canvas.addEventListener to listen to mouse moving">
+      <created>1614248811031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614248811031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updating (index.js) file -&gt; Adding drawing function (draw()) to draw lines">
+      <created>1614248950354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614248950354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating (index.js) file -&gt; Updating listening to messages coming from server" />
+    <MESSAGE value="Updating (index.js) file -&gt; Adding canvas.addEventListener to listen to mouse moving" />
+    <MESSAGE value="Updating (index.js) file -&gt; Adding drawing function (draw()) to draw lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating (index.js) file -&gt; Adding drawing function (draw()) to draw lines" />
   </component>
 </project>

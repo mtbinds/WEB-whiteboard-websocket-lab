@@ -57,6 +57,7 @@ ws.onmessage = (event) => {
   }
 };
 
+
 //canvas.addEventListener
 canvas.addEventListener("mousemove", moveEvent, true);
 function moveEvent(event) {
