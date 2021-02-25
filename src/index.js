@@ -93,7 +93,6 @@ function onClickNewDessin(event) {
   ws.send(str);
 }
 
-
 function ajouteDessin(newId, name) {
   let option = new Option('dessin ' + newId, newId);
   document.getElementById("listedessins").options[document.getElementById("listedessins").options.length] = option;
