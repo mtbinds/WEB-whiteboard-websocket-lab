@@ -57,7 +57,7 @@ ws.onmessage = (event) => {
   }
 };
 
-
+//canvas.addEventListener
 canvas.addEventListener("mousemove", moveEvent, true);
 function moveEvent(event) {
   if(event.buttons === 1) {
@@ -70,7 +70,7 @@ function moveEvent(event) {
   }
 }
 
-
+//Drawing function
 function draw(x, y, color, idCanvas) {
   let theCanvas = document.getElementById(idCanvas);
   let ctx = theCanvas.getContext("2d");
