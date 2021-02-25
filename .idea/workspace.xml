@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (index.js) file -&gt; Adding function moveEvent() to catch buttons events">
+    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;newDessin&quot;).addEventListener(&quot;click&quot;, onClickNewDessin, true);) to add an EventListener on clicking on new draw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
       <updated>1614165093511</updated>
       <workItem from="1614165095720" duration="16000" />
       <workItem from="1614165117252" duration="2668000" />
-      <workItem from="1614247891874" duration="1409000" />
+      <workItem from="1614247891874" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
       <created>1614248592718</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614249113484</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;newDessin&quot;).addEventListener(&quot;click&quot;, onClickNewDessin, true);) to add an EventListener on clicking on new draw">
+      <created>1614249340421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614249340421</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="Updating (index.js) file -&gt; Adding drawing function (draw()) to draw lines" />
     <MESSAGE value="Updating (index.js) file -&gt; Adding (canvas.addEventListener) to catch mouse moving" />
     <MESSAGE value="Updating (index.js) file -&gt; Adding function moveEvent() to catch buttons events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating (index.js) file -&gt; Adding function moveEvent() to catch buttons events" />
+    <MESSAGE value="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;newDessin&quot;).addEventListener(&quot;click&quot;, onClickNewDessin, true);) to add an EventListener on clicking on new draw" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;newDessin&quot;).addEventListener(&quot;click&quot;, onClickNewDessin, true);) to add an EventListener on clicking on new draw" />
   </component>
 </project>

@@ -87,8 +87,10 @@ function draw(x, y, color, idCanvas) {
   ctx.closePath();
 }
 
-
+//EventListener on clik on  new draw
 document.getElementById("newDessin").addEventListener("click", onClickNewDessin, true);
+
+//Function onClickNewDessin
 function onClickNewDessin(event) {
   let i = document.getElementById("listedessins").options.length;
   let newId = '' + i;
