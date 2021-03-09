@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (index.js) file -&gt; Adding function ajouteDessin() that adds new Drawing with new ID &amp; a name">
+    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (index.js) file -&gt; Adding function onSelectMyOption(event) to select the canvas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,8 @@
       <updated>1614165093511</updated>
       <workItem from="1614165095720" duration="16000" />
       <workItem from="1614165117252" duration="2668000" />
-      <workItem from="1614247891874" duration="2440000" />
+      <workItem from="1614247891874" duration="3460000" />
+      <workItem from="1615292765604" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
       <created>1614248592718</created>
@@ -112,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614250212103</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;listedessins&quot;).addEventListener()) to get drawings by IDs">
+      <created>1614250446706</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614250446706</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating (index.js) file -&gt; Adding function onSelectMyOption(event) to select the canvas">
+      <created>1614250501399</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614250501399</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +143,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating (index.js) file -&gt; Updating listening to messages coming from server" />
@@ -138,6 +154,8 @@
     <MESSAGE value="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;newDessin&quot;).addEventListener(&quot;click&quot;, onClickNewDessin, true);) to add an EventListener on clicking on new draw" />
     <MESSAGE value="Updating (index.js) file -&gt; Adding function onClickNewDessin to mark the event (on clicking on new drawing)" />
     <MESSAGE value="Updating (index.js) file -&gt; Adding function ajouteDessin() that adds new Drawing with new ID &amp; a name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating (index.js) file -&gt; Adding function ajouteDessin() that adds new Drawing with new ID &amp; a name" />
+    <MESSAGE value="Updating (index.js) file -&gt; Adding (document.getElementById(&quot;listedessins&quot;).addEventListener()) to get drawings by IDs" />
+    <MESSAGE value="Updating (index.js) file -&gt; Adding function onSelectMyOption(event) to select the canvas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating (index.js) file -&gt; Adding function onSelectMyOption(event) to select the canvas" />
   </component>
 </project>
