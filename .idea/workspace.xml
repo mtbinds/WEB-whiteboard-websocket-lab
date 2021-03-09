@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating (server.js) file -&gt; Updates to enable the servers host &amp;&amp; port (Creating Server)">
+    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating workspace.xml,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,8 @@
       <workItem from="1614247891874" duration="3460000" />
       <workItem from="1615292765604" duration="2008000" />
       <workItem from="1615295952457" duration="511000" />
+      <workItem from="1615318018674" duration="180000" />
+      <workItem from="1615318652659" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
       <created>1614248592718</created>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615294598583</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updating workspace.xml">
+      <created>1615318170144</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615318170144</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +198,7 @@
     <MESSAGE value="Updating (index.js) file -&gt; Adding function onSelectMyOption(event) to select the canvas" />
     <MESSAGE value="Updating (index.html) file -&gt; Improving user's connection" />
     <MESSAGE value="Updating (server.js) file -&gt; Updates to enable the servers host &amp;&amp; port (Creating Server)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating (server.js) file -&gt; Updates to enable the servers host &amp;&amp; port (Creating Server)" />
+    <MESSAGE value="Updating workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating workspace.xml" />
   </component>
 </project>
