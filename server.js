@@ -6,6 +6,8 @@ var http = require('http'),
 // create a new HTTP server to deal with low level connection details (tcp connections, sockets, http handshakes, etc.)
 var server = http.createServer();
 
+var historique = '';
+var nbDessins = 1;
 
 // create a WebSocket Server on top of the HTTP server to deal with the WebSocket protocol
 var wss = new WebSocketServer({
@@ -30,10 +32,14 @@ wss.on('connection', function(client, request) {
   wsname = wsname.split('=')[1];
 
   // greet the newly connected user
-  client.send('Welcome, ' + decodeURIComponent(wsname) + '!');
+  client.send('envoyerListe;' + nbDessins);
+  if(historique !== '') { client.send(historique); }
 
   // Register a listener on each message of each connection
   client.on('message', function(message) {
+    const resMessage = message.split(' ');
+    if(resMessage[0] === 'ajoutHistorique') { historique += resMessage[1]; }
+    if(resMessage[0] === 'newDessin') { nbDessins++; }
 
     var cli = '[' + decodeURIComponent(wsname) + '] ';
     console.log("message from", cli);
