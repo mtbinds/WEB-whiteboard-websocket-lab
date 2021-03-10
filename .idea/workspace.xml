@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Updating workspace.xml,">
+    <list default="true" id="013b8bd1-5e6a-49d0-8006-3da78ffd85ad" name="Default Changelist" comment="Creating a build version">
+      <change beforePath="$PROJECT_DIR$/.idea/WEB-whiteboard-websocket-lab(madjid).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WEB-whiteboard-websocket-lab(madjid).iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,12 @@
       <workItem from="1615292765604" duration="2008000" />
       <workItem from="1615295952457" duration="511000" />
       <workItem from="1615318018674" duration="180000" />
-      <workItem from="1615318652659" duration="342000" />
+      <workItem from="1615318652659" duration="906000" />
+      <workItem from="1615370990381" duration="14000" />
+      <workItem from="1615371244823" duration="239000" />
+      <workItem from="1615398454645" duration="60000" />
+      <workItem from="1615401075870" duration="211000" />
+      <workItem from="1615401794728" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="Updating (index.js) file -&gt; Updating listening to messages coming from server">
       <created>1614248592718</created>
@@ -167,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615318170144</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Creating a build version">
+      <created>1615319167947</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319167947</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +212,7 @@
     <MESSAGE value="Updating (index.html) file -&gt; Improving user's connection" />
     <MESSAGE value="Updating (server.js) file -&gt; Updates to enable the servers host &amp;&amp; port (Creating Server)" />
     <MESSAGE value="Updating workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating workspace.xml" />
+    <MESSAGE value="Creating a build version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a build version" />
   </component>
 </project>
